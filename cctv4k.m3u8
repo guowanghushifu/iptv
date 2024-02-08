@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/cctv4k.png" group-title="央视4K",CCTV4K
+http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233679/index.m3u8
